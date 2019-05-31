@@ -1,5 +1,6 @@
 package br.com.camilamlima.createuser;
 
+import br.com.camilamlima.createuser.domain.User;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.ResponseEntity;

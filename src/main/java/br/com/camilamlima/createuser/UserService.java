@@ -1,5 +1,7 @@
 package br.com.camilamlima.createuser;
 
+import br.com.camilamlima.createuser.domain.User;
+import br.com.camilamlima.createuser.repository.UserRespository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
